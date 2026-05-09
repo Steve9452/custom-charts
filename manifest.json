@@ -1,23 +1,22 @@
 {
-  "name": "Mi Parlamento Privado",
-  "organization": "Mi Empresa",
-  "description": "Gráfico de parlamento seguro.",
-  "devMode": true,
+  "name": "ABC Visualizations Package",
+  "organization": "ABC Inc.",
+  "description": "A package of cool visualizations.",
+  "logoUrl": "https://url",
+  "supportUrl": "https://url",
+  "packageUrl": "https://url",
+  "devMode": false,
   "components": [
     {
       "id": "miParlamento2",
       "name": "Parlamento",
       "description": "Gráfico de arco",
-      "resources": {
+      "iconUrl": "https://url.png",
+      "resource": {
         "js": "index.js",
-        "css": "index.css",
-        "config": "index.json"
+        "config": "index.json",
+        "css": "index.css"
       }
     }
-  ],
-  "resources": {
-    "js": "index.js",
-    "css": "index.css",
-    "config": "index.json"
-  }
+  ]
 }
