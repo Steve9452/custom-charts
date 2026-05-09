@@ -1,0 +1,20 @@
+{
+  "data": [
+    {
+      "id": "concepts",
+      "label": "Datos del Parlamento",
+      "elements": [
+        {
+          "id": "partyId",
+          "label": "Partido",
+          "type": "dimension"
+        },
+        {
+          "id": "seatsMetric",
+          "label": "Número de Escaños",
+          "type": "metric"
+        }
+      ]
+    }
+  ]
+}

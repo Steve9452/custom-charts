@@ -1,0 +1,20 @@
+{
+  "name": "Mi Parlamento Privado",
+  "organization": "Mi Empresa",
+  "description": "Gráfico de parlamento seguro.",
+  "devMode": true,
+  "components": [
+    {
+      "id": "miParlamento",
+      "name": "Parlamento",
+      "description": "Gráfico de arco",
+      "iconUrl": "",
+      "resourceId": "miParlamento"
+    }
+  ],
+  "resources": {
+    "js": "index.js",
+    "css": "index.css",
+    "config": "index.json"
+  }
+}
