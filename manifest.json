@@ -5,11 +5,14 @@
   "devMode": true,
   "components": [
     {
-      "id": "miParlamento",
+      "id": "miParlamento2",
       "name": "Parlamento",
       "description": "Gráfico de arco",
-      "iconUrl": "",
-      "resourceId": "miParlamento"
+      "resources": {
+        "js": "index.js",
+        "css": "index.css",
+        "config": "index.json"
+      }
     }
   ],
   "resources": {
